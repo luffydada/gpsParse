@@ -1,0 +1,15 @@
+# linux:
+tags
+Makefile~
+makefile~
+
+# c++:
+*.h
+*.cpp
+*.so
+
+#dir
+backup
+v1
+
+# My configurations:
